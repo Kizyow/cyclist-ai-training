@@ -2,7 +2,7 @@
 
 ### Description
 
-A N7 project about deep learning and image recognition, the idea is to determine if a cyclist wear a helmet or not.
+A N7 project about deep learning and image recognition, the idea is to detect cyclist and determine if they are wearing a helmet or not.
 
 ### Authors
 
