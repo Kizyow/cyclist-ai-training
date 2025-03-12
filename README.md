@@ -6,7 +6,7 @@ A N7 project about deep learning and image detection and recognition, the idea i
 
 ### Authors
 
+- MEKKAOUI Ossama
 - NAVRATIL Daphné
-- MEKKAKOUI Ossama
 - PERROT Alexandre
 - SAUSSEREAU Pierre
